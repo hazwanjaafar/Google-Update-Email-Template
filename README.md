@@ -6,7 +6,7 @@ This Google Update Email Template is designed for a phishing simulation to test 
 ## Template Components:
 
 # Subject Line:
-"Urgent: Google Chrome Update Required to Ensure Security"
+"Urgent: Google Chrome is Outdated"
 - The subject creates a sense of urgency, encouraging the recipient to act quickly without overthinking.
 
 # Email Body:
