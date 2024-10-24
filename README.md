@@ -17,10 +17,10 @@ This Google Update Email Template is designed for a phishing simulation to test 
 
 # Attachment:
 // File to attach
-$file = 'path/to/attachment.txt'; // Replace with the actual file path
+$file = 'path/to/attachment.txt'; // Replace with the actual file path wityh malicious file.
 
 # Visual Design:
-The email template uses Google’s branding elements such as colors, fonts, and a Google logo to increase authenticity.
+The email template uses Google’s branding elements such as colors, fonts.
 
 # Example:
 
